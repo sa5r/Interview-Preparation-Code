@@ -1,4 +1,4 @@
-# Interview-Preparation-Code
+# My Interview Preparation Solutions
 
 This repo is for my interview preparation solutions used on HackerRank problems.
 
