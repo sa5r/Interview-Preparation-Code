@@ -22,3 +22,5 @@ Given a string of lowercase letters in the range ascii[a-z], determine the index
 
 Given a positive integer $n$, the solution should generate all prime numbers within the range from 0 to $n$ inclusive.
 
+## [Super Digit](super_digit.py)
+[Problem details on HackerRank](https://www.hackerrank.com/challenges/super-digit/problem)
