@@ -17,3 +17,8 @@ Given a string of lowercase letters in the range ascii[a-z], determine the index
 ## [Text Editor / Leveraging Stack Data Structure](text_editor.py)
 
 [Problem details on HackerRank](https://www.hackerrank.com/challenges/simple-text-editor/problem)
+
+## [Generate Prime Numbers](generate_prime.py)
+
+Given a positive integer $n$, the solution should generate all prime numbers within the range from 0 to $n$ inclusive.
+
