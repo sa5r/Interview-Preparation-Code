@@ -1,6 +1,4 @@
-# My Interview Preparation Solutions
-
-This repo is for my interview preparation solutions used on HackerRank problems.
+# Python Interview Preparation Solutions
 
 ## [Cipher Encryption Problem](cipher.ipynb)
 
@@ -10,7 +8,7 @@ Julius Caesar protected his confidential information by encrypting it using a ci
 
 Given an array of integers and a target value, determine the number of pairs of array elements that have a difference equal to the target value.
 
-## [Palindrome Index Problem](pairs.py)
+## [Palindrome Index Problem](palindrome_index.ipynb)
 
 Given a string of lowercase letters in the range ascii[a-z], determine the index of a character that can be removed to make the string a palindrome. There may be more than one solution, but any will do. If the word is already a palindrome or there is no solution, return -1. Otherwise, return the index of a character to remove.
 
